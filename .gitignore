@@ -1,0 +1,10 @@
+temp/
+*.log
+*.tmp
+*.vscode
+*.cfg
+*.env
+__pycache__/
+bin/
+include/
+lib/
